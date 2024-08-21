@@ -2,7 +2,7 @@
 
 This repo contains the training and inference code for our G<sup>2</sup>Face paper.
 
-> [**G<sup>2</sup>Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**](http://xxx)<br>
+> [**G<sup>2</sup>Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**](https://arxiv.org/abs/2408.09458)<br>
 > Haoxin Yang, Xuemiao Xu, Cheng Xu, Huaidong Zhang, Jing Qin, Yi Wang, Pheng-Ann Heng, Shengfeng He\
 > <br>South China University of Technology, The Hong Kong Polytechnic University, Dongguan University of Technology,  The Chinese University of Hong Kong, Singapore Management University.<br>
 
