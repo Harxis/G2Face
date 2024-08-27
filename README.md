@@ -2,7 +2,8 @@
 
 This repo contains the training and inference code for our G<sup>2</sup>Face paper.
 
-> [**G<sup>2</sup>Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**](https://arxiv.org/abs/2408.09458)<br>
+> **G<sup>2</sup>Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**
+[| *arxiv* |](https://arxiv.org/abs/2408.09458) [ *ieeexplore* | ](https://ieeexplore.ieee.org/document/10644096)<br>
 > Haoxin Yang, Xuemiao Xu, Cheng Xu, Huaidong Zhang, Jing Qin, Yi Wang, Pheng-Ann Heng, Shengfeng He\
 > <br>South China University of Technology, The Hong Kong Polytechnic University, Dongguan University of Technology,  The Chinese University of Hong Kong, Singapore Management University.<br>
 
@@ -50,9 +51,10 @@ This project is released under the MIT license. Please see the [LICENSE](LICENSE
 If you find this repository helpful, please consider citing:
 ```bibtex
 @article{Yang2024G2face,
-  title={G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors},
-  author={Haoxin Yang, Xuemiao Xu, Cheng Xu, Huaidong Zhang, Jing Qin, Yi Wang, Pheng-Ann Heng, Shengfeng He},
+  author={Yang, Haoxin and Xu, Xuemiao and Xu, Cheng and Zhang, Huaidong and Qin, Jing and Wang, Yi and Heng, Pheng-Ann and He, Shengfeng},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors}, 
   year={2024},
-  journal={IEEE Transactions on Information Forensics and Security},
+  doi={10.1109/TIFS.2024.3449104}}
 }
 ```
